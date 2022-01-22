@@ -1,0 +1,6 @@
+env
+.git
+.idea
+.ipynb_checkpoints
+weapon_train.mp4
+.vscode
