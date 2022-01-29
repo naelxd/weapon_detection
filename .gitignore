@@ -4,3 +4,5 @@ env
 .ipynb_checkpoints
 weapon_train.mp4
 .vscode
+labelimg
+Tensorflow
