@@ -9,7 +9,7 @@
 3nd column: 1 - weapons detected, 0 - weapons not detected
 
 ## How to try?
-- You can try on Colab
+- You can try on Colab (Prefer)
 - You can do steps below:
 
 1. Clone repository
